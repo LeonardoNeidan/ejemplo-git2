@@ -5,3 +5,4 @@ Indicaciones:
 3.- Ejecutar el comando para instalar dependencias descritas en el archivo requeriements.txt
         pip install -r requirementes.txt
 4.- Archivo modificado desde github
+5.- Nueva actulizacion local
